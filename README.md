@@ -21,6 +21,27 @@ Dedicated iOS developer with a track record of enhancing user experiences and co
 ---
 
 ### Skills
+| Name                        | Type     |
+|-----------------------------|----------|
+| Object-Oriented Programming | Software |
+| Unit testing                | Software |
+| Competitive Programming     | Software |
+| Ansys                       | Software |
+| Protocol-oriented programming | Software |
+| CPP                         | Language |
+| Java                        | Language |
+| Dart                        | Language |
+| Swift                       | Language |
+| Flutter                     | Expertise |
+| Data Structure and Algorithm | Expertise |
+| RealM                       | Expertise |
+| SQL                         | Expertise |
+| GRPC                        | Expertise |
+| UI Kit                      | Expertise |
+| iOS Application             | Expertise |
+| Core data                   | Expertise |
+| Swift UI                    | Expertise |
+| SDK development             | Expertise |
 
 [](Abhishek%20kapoor%204c9d0ef7b00e49fc9d173ecd1fdd9662/Untitled%20fb4bb63fe9044e969bc23a37290a2dc3.csv)
 
